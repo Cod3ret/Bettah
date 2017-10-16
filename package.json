@@ -1,0 +1,31 @@
+{
+  "name": "bettah-media",
+  "version": "1.0.2",
+  "description": "This makes Media Transcoding Better!",
+  "main": "src/index",
+  "scripts": {
+    "lint": "eslint src && eslint test",
+    "test": "npm run lint"
+  },
+  "keywords": [
+    "audio",
+    "media",
+    "ffmpeg"
+  ],
+  "author": "Params#5568 <boujee05@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Cod3ret/Bettah/blob/master/README.md",
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cod3ret/Bettah.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cod3ret/Bettah/issues"
+  }
+}
