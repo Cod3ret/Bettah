@@ -1,4 +1,4 @@
-# prism-medi
+# bettah
 
 Makes programmatically transcoding media easier
 
