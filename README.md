@@ -1,11 +1,11 @@
-# bettah
+# bettah-media
 
 Makes programmatically transcoding media easier
 
-`npm install --save bettah`
+`npm install --save bettah-media`
 
 ```js
-const Prism = require('bettah');
+const Bettah = require('bettah-media');
 const fs = require('fs');
 
 const bettah = new Bettah();
